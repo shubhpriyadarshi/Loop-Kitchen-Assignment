@@ -1,0 +1,8 @@
+__pycache__/
+data/
+reports/
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+db.sqlite3
+instance/
